@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/R-aMcC/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=R-aMcC&show_icons=true&theme=dark&text_color=AAAAAA&title_color=FFFFFF&icon_color=44b8db" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=R-aMcC&show_icons=true&theme=dark&text_color=AAAAAA&title_color=FFFFFF&icon_color=44b8db&card_width=310" />
 </a>
 <a href="https://github.com/R-aMcC/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-aMcC&show_icons=true&theme=dark&text_color=AAAAAA&title_color=FFFFFF&icon_color=44b8db&layout=compact&exclude_repo=Prototype3" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-aMcC&show_icons=true&theme=dark&text_color=AAAAAA&title_color=FFFFFF&icon_color=44b8db&layout=compact&exclude_repo=Prototype3&card_width=310" />
 </a>
 
 
