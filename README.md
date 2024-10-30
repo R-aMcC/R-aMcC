@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hey, I'm Ryan, a 17 y/o developper working with java and kotlin.
 
--> Currently working on Secret Routes Mod, a QOL Client-side modification for Hypixel Skyblock
+-> Currently working on [Secret Routes Mod](https://github.com/yourboykyle/SecretRoutes) with @yourboykyle, a QOL Client-side modification for Hypixel Skyblock
 
 -> Currently studying at Franco-Ouest to get my highschool diploma, and and IB Certificate in math
 
