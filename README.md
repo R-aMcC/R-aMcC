@@ -13,8 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Wyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-aMcC&show_icons=true&theme=dark&text_color=AAAAAA&title_color=FFFFFF&icon_color=44b8db)](https://github.com/R-aMcC/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-aMcC&show_icons=true&theme=dark&text_color=AAAAAA&title_color=FFFFFF&icon_color=44b8db&layout=compact&exclude_repo=Prototype3)
+<a href="https://github.com/R-aMcC/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=R-aMcC&show_icons=true&theme=dark&text_color=AAAAAA&title_color=FFFFFF&icon_color=44b8db" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-aMcC&show_icons=true&theme=dark&text_color=AAAAAA&title_color=FFFFFF&icon_color=44b8db&layout=compact&exclude_repo=Prototype3" />
+</a>
+
+
+
 
 ### Hey, I'm Ryan, a 17 y/o developper working with java and kotlin.
 
