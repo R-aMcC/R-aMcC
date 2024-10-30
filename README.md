@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/R-aMcC/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=R-aMcC&show_icons=true&theme=dark&text_color=AAAAAA&title_color=FFFFFF&icon_color=44b8db" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/R-aMcC/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-aMcC&show_icons=true&theme=dark&text_color=AAAAAA&title_color=FFFFFF&icon_color=44b8db&layout=compact&exclude_repo=Prototype3" />
 </a>
 
