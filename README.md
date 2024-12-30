@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 -> Currently studying to get my highschool diploma, and and IB Certificate in math
 
--> Hope to start at Carleton University in the Engineering department in the fall of 2025
+-> Enrolled for software engineering at Carleton University starting in fall of 2025
 
 -> Want to contact me ? I am mostly available on discord (wyannnnn)
 
